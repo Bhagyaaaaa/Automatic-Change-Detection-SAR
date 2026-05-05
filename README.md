@@ -25,7 +25,6 @@ Disaster assessment
 
 Environmental change tracking
 
-Perfect for B.Tech / M.Tech / MCA / Research and real-world remote sensing applications.
 
 <br>
 🚀 Features
